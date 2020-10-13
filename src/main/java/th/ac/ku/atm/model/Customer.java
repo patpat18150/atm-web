@@ -1,5 +1,3 @@
-
-
 package th.ac.ku.atm.model;
 
 import javax.persistence.Entity;
